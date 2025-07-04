@@ -1,0 +1,8 @@
+/*
+!dist/
+!.gitignore
+!.env.example
+!.htaccess
+!composer.json
+!index.php
+!README.md

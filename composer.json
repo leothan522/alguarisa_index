@@ -1,0 +1,16 @@
+{
+    "name": "alguarisa/index",
+    "type": "project",
+    "description": "Alimentos del Guárico S.A. (Alguarisa)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yonathan Castillo",
+            "email": "leothan522@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
