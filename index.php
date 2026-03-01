@@ -269,9 +269,9 @@ require __DIR__.'/vendor/autoload.php';
             const preloader = document.getElementById('preloader');
             if (preloader){
                 preloader.classList.remove('d-none');
-                setTimeout(function () {
+                /*setTimeout(function () {
                     preloader.classList.add('d-none');
-                }, 2000)
+                }, 2000)*/
             }
         }
     });
