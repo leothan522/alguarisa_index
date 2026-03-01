@@ -271,7 +271,7 @@ require __DIR__.'/vendor/autoload.php';
                 preloader.classList.remove('d-none');
                 setTimeout(function () {
                     preloader.classList.add('d-none');
-                }, 1000)
+                }, 2000)
             }
         }
     });
