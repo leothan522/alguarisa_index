@@ -7,3 +7,5 @@
 !composer.lock
 !index.php
 !README.md
+!service-worker.js
+!manifest.json
