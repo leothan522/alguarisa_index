@@ -1,4 +1,4 @@
-# Alimentos del Guárico S.A. (Pagina Index)
+# Alimentos del Guárico S.A. (Página Index)
 
 ## Tecnologías
 
